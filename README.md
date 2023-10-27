@@ -1,9 +1,9 @@
-# EE636 Selected Topics in Information Theory Assignmeny
+# EE636 Selected Topics in Information Theory Assignment
 
 ## Personal Info
-Name of Student : Vighnesh Deshpande
-Roll No         : 200102112
-Branch          : ECE
+Name of Student : Vighnesh Deshpande<br>
+Roll No         : 200102112<br>
+Branch          : ECE<br>
 
 
 ## Introduction
