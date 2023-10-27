@@ -79,7 +79,7 @@ To run the code for Q1 run the command:
 ```
 python Q1.py
 ```
-[Plot for Q1 for 6 bit coefficients](./plots/q1_plot.png)
+![Plot for Q1 for 6 bit coefficients](./plots/q1_plot.png)
 
 You can also open Q1.ipynb in a Jupyter Notebook and run all cells.
 
@@ -87,7 +87,7 @@ To run the code for Q2 run the command:
 ```
 python Q2.py
 ```
-[Plot for Q1 for 32 byte cipher with window size of 4 bits](./plots/q2_plot.png)
+![Plot for Q1 for 32 byte cipher with window size of 4 bits](./plots/q2_plot.png)
 
 The folder plots contains the result plots
 
