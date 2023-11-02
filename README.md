@@ -43,17 +43,6 @@ or to make a system-wide install
 sudo python setup.py install
 ```
 
-It is also possible to test the library before installing it:
-
-```
-python setup.py test
-```
-
-Or to simply build the library without installing it in the system:
-
-```
-python setup.py build
-```
 
 For generic info on building C extensions on Windows, see the 
 [Python wiki](https://wiki.python.org/moin/WindowsCompilers).
